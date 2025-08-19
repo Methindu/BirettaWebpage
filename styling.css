@@ -1,0 +1,22 @@
+div{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+div.box-1{
+    background-color: aqua;
+}
+
+div.box-2{
+    background-color: springgreen;
+    margin: 10px;
+}
+
+div.box-2:hover{
+    background-color: green;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}

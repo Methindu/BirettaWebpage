@@ -1,0 +1,19 @@
+div.main{
+    background-color: aqua;
+}
+
+div{
+    padding: 10px;
+    margin: 10px;
+    font-family: sans-serif, 'Courier New', Courier, monospace;
+    border-radius: 10px;
+}
+
+img.HomeButton{
+    width: 50px;
+    height: 50px; 
+}
+
+div.children{
+    background-color: springgreen;
+}
